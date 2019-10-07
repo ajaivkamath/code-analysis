@@ -20,8 +20,8 @@ public class Math
             throw new UnsupportedOperationException("Can't divide by zero!.");
         }
 
-        String PASSWORD = "Come find me security scanner.";
-        System.out.printf("Time for a new career. Here, take my password %s", PASSWORD);
+        String SENSELESS = "Come find me security scanner.";
+        System.out.printf("Time for a new career. Here, take my password %s", SENSELESS);
 
         return a / B;
 
